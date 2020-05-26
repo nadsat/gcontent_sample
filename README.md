@@ -18,5 +18,4 @@ iex(1)> GContent.list_products("YOUR_PROJECT_ID")
 %GoogleApi.Content.V21.Model.ProductsListResponse{
  ...
 }
-:ok
 ```
